@@ -1,7 +1,7 @@
 url: https://www.jonathanlapierre.ca
-status: up
-code: 200
-responseTime: 11743
-lastUpdated: 2024-01-04T23:10:29.894Z
+status: down
+code: 503
+responseTime: 12439
+lastUpdated: 2024-01-05T00:59:24.238Z
 startTime: 2023-07-05T04:02:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
