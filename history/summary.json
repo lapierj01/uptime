@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jonathanlapierre.ca.ico",
     "slug": "perso-website",
     "status": "up",
-    "uptime": "84.86%",
+    "uptime": "84.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.93%",
-    "time": 1325,
-    "timeDay": 210,
-    "timeWeek": 286,
-    "timeMonth": 341,
+    "time": 1323,
+    "timeDay": 220,
+    "timeWeek": 282,
+    "timeMonth": 340,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2024-08-28": 314,
@@ -58,8 +58,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1399,
       "2023-10-11": 80,
-      "2023-10-07": 78,
-      "2023-10-05": 477
+      "2023-10-07": 78
     }
   },
   {
@@ -68,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.famillelapierre.com.ico",
     "slug": "perso-website-2",
     "status": "down",
-    "uptime": "77.02%",
+    "uptime": "76.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.12%",
+    "uptimeYear": "81.85%",
     "time": 1316,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 504,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-10-03": 63,
+      "2024-10-04": 63,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -157,8 +157,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1399,
       "2023-10-11": 80,
-      "2023-10-07": 77,
-      "2023-10-05": 477
+      "2023-10-07": 77
     }
   }
 ]
